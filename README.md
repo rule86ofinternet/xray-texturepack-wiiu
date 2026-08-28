@@ -1,7 +1,7 @@
 # X-ray texture pack for wii u
 not the best x-ray, but it *kinda* works
 
-/!\
+!!!!!!!!!!!!!!!!!!
 As this is cheating, don't use this in online (except if the owner of the world authorise it) and with your family :)
 
 I recommand putting your gamma to the maximum
