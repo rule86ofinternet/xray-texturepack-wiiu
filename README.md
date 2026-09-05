@@ -16,3 +16,5 @@ You should have **hacked** your wiiu for installing a texture pack. If you don't
 ... Japan, create a folder named 00050000101dbe00 in the sdcafiine folder.
 
 now, **unzip** the file, and put the x-ray folder (the one who lead directly to content) in the correct region game folder. and it's done ! now start your game and select x-ray. If you don't want to load the texture pack, just hit **B** to skip texture packs selection.
+
+made by me (tommiyrr is my old account)
